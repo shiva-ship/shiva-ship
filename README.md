@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shivansh Rastogi 👋</h1>
 
-<h3 align="center">Java backend engineer · API security · MSc Cybersecurity @ Universität des Saarlandes</h3>
+<h3 align="center">Java backend engineer · API security  · MSc Cybersecurity @ Universität des Saarlandes</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Saarbrücken%2C%20Germany-0969da?style=flat-square" alt="Saarbrücken, Germany" />
